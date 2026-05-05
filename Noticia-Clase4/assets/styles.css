@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f2f2f2;
+  color: #222222;
+}
+
+#encabezado {
+  background-color: #0b2c5f;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+.logo {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+
+.contenedor {
+  width: 80%;
+  max-width: 850px;
+  margin: 30px auto;
+  background-color: white;
+  padding: 30px;
+}
+
+.categoria {
+  color: #0066cc;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 42px;
+  margin-bottom: 18px;
+  color: #111111;
+}
+
+.bajada {
+  font-size: 20px;
+  font-weight: bold;
+  color: #444444;
+  margin-bottom: 15px;
+}
+
+.fecha {
+  font-size: 14px;
+  color: #777777;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 28px;
+  margin-bottom: 18px;
+}
+
+.bloque {
+  background-color: #eef4ff;
+  border-left: 5px solid #0066cc;
+  padding: 20px;
+  margin-top: 25px;
+}
+
+.bloque h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #111111;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+footer p {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
